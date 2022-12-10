@@ -1,0 +1,118 @@
+.proDet {
+    margin: 0.5%;
+    border: 1px solid var(--border-color);
+    border-radius: 1rem; 
+    font-size: 100%;
+    color: #5E6164;
+    padding: 1rem;
+    text-align: left;
+    font-family: sans-serif;
+    width: 99%;
+    align-content: center;
+
+}
+
+.alineartit{
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+
+.lin{
+    padding:1rem;
+    text-decoration: none;
+}
+
+.tamimg{
+    width: 90%;
+    padding-left: 10%;
+}
+
+.tamimgdos{
+    width: 130%;
+}
+.tamimgdos:hover{
+    -webkit-transform:scale(1.2);transform:scale(1.05);
+    box-shadow: 0px 0px 5px 5px #1e9aec;
+    -webkit-box-shadow: 0px 0px 5px 5px #1e9aec;
+    transition: transform 1s;
+}
+
+.prec{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 50px;
+}
+@media(max-width: 550px){ 
+    .prec h3{    
+      font-size:medium;
+      }
+    }
+
+
+.styleuno{
+    padding-left: 8%;
+    padding-right: 6%;
+    padding-top: 6%;
+}
+.styledos{
+    padding-left: 10%;
+    padding-right: 6%;
+    padding-top: 6%;
+}
+
+.tamimgtres{
+    width: 100% !important;
+    display: grid;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+}
+.tamimgcuatro{
+    width: 90%;
+    padding-left: 10%;
+    padding-bottom: 4%;
+}
+
+.carta{
+    border:20px;
+    border-color:  #0c0c0c;
+    padding: 5%;
+    margin-bottom: 7px;
+}
+
+.carta:hover{
+    -webkit-transform:scale(1.2);transform:scale(1.05);
+    box-shadow: 0px 0px 5px 5px #e9e5e5;
+    -webkit-box-shadow: 0px 0px 5px 5px #dbd2d2;
+    transition: transform 1s;
+}
+
+.cartados{
+    border:20px;
+    border-color:  #0c0c0c;
+    padding: 5%;
+}
+
+.myBtn{
+    text-decoration: none;
+    background-color: aliceblue;
+    color: rgba(2, 2, 2, 0.548) ;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 4px;
+    border-color: aliceblue;
+    font-size: 15px;
+    margin-bottom: 7%;
+
+    
+}
+.myBtn:hover {
+    background-color: rgba(7, 7, 7, 0.493);
+    color: aliceblue; 
+    transition: background-color 2s;
+}

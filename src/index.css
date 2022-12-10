@@ -1,0 +1,45 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+/* 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color:aquamarine; */
+  background-image: url("https://www.originwallcoverings.es/media/catalog/product/cache/a2ff3bab6ccd19c1caabb71d87d63da1/3/4/347486.jpg"); 
+  /* con esto hago que no se repita la imagen en el body:
+   background-repeat: no-repeat; */
+  /* con lo siguiente le doy el tamaño de la imagen: 
+  background-size: cover; 
+  height: 100%; 
+  min-height: 100vh;*/
+  /* si quisiera bluriar la pagina (es decir distorcionar un poco la imagen)
+   deberia hacer: */
+   /* backdrop-filter: blur(3px); */
+   /* el color que quiera(ejemplo #0000040) */
+   /* background-color: #1e97e2;    */
+}
+
+body, input {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: none !important;
+}
+
+h3{
+  text-decoration: none;
+}
+
+:root {
+  --border-color: #00000046  ; 
+  /* se pone los 2 guiones para definir una variable */
+  --btn-bkg-danger: #1e97e2;
+}

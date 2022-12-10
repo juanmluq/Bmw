@@ -1,0 +1,32 @@
+.nav {
+    z-index: 1;
+    /* z index me dice que me corro 1 lugar al frente que corresponde al eje z */
+    display: flex;
+    justify-content: center;
+    width: 99%;
+    height: 4rem;
+    padding: 1rem;
+    background-color: #47464600;
+    color: #00000046;
+    transition: background-color 750ms;
+    margin: 0.5%;
+    border: 1px solid;
+    gap: 2rem;
+    text-decoration: black;
+    /* gap es para separar los componentes entre si. En este caso los textos Home y Create Product */
+}
+
+.nav :hover {
+    background-color: #ffffff80;
+}
+
+.lin{
+    text-decoration: none;
+
+}
+
+@media(max-width: 550px){ 
+    .nav{    
+        gap: 0.5rem;
+    }
+    }

@@ -1,0 +1,48 @@
+
+
+.proDetd {
+
+    border: 1px solid var(--border-color);
+    border-radius: 1rem;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    margin: 1rem;
+    text-align: center;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    /* esto ultimo soluciona el tema de las 2 columnas de la pagina. 
+    En este caso es para que se acomode en 3 columnas y "auto" es para que
+     sea automatico pero tambien puedo ponerlo en fracciones "1fr" , "2fr" , 
+     "3fr" , etc*/
+    
+    grid-gap: 10px;
+    width: 100%;
+    padding: 1.7rem;
+} 
+
+@media(max-width: 550px){
+  .cards{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr); 
+    grid-gap: 10px;
+    width: 100%;
+    padding: 1.7rem;
+  }
+}
+
+
+.sacarsub{
+    text-decoration: none ;
+  }
+
+  h2,h4{
+    text-align: center;
+  }
+
+  h3{
+    text-decoration: none;
+  }

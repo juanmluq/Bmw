@@ -1,0 +1,33 @@
+.info {
+    padding-top: 2rem;
+    display:block;
+    position: fixed;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    width: 100%;
+   
+    
+    /* animation-delay: -500ms; */
+}
+.caja{
+    position: fixed;
+
+}
+
+
+
+.info > section {
+    padding: 1rem;
+    margin: 0.5rem;
+    margin-top: 65%;
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    gap: 1rem;
+    animation-delay: -500ms;
+} 
+
+.txt {
+    font-size: 2rem;
+    font-weight: 300;
+}
