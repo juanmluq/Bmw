@@ -32,6 +32,7 @@ En el inicio vas a encontrar distintos modelos (separados por cards) disponibles
 # Product
 
 ![detalles1bmw](https://user-images.githubusercontent.com/94568781/206865742-39d8740a-f78d-4a98-8eb7-b8ebea927920.jpg)
+![detalle3bmw](https://user-images.githubusercontent.com/94568781/206865910-b7f9e13e-c5b6-4635-8c1f-4375d4c38c54.jpg)
 
 En ésta seccion vas a tener imagenes junto con algunos detalles del producto, luego vas a tener la descipción detallada junto con las caracteristicas. Entre los detalles se encuentran su imagen, su titulo y su precio. Al final tenemos un boton de compra que al hacer click nos redirige a la plataforma de pago, en este caso con stripe donde podemos hacer el pago con tarjeta. Podes probar con el numero de tarjeta: 4242 4242 4242 4242. Cualquier fecha y cualquier codigo de seg.
 
