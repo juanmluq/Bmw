@@ -26,10 +26,16 @@ La app tiene seis rutas:
 
 En el inicio vas a encontrar distintos modelos (separados por cards) disponibles a la venta. Al hacer click en algun producto vas a poder visualizar la descripción detallada del mismo.
 
+![home1bmw](https://user-images.githubusercontent.com/94568781/206865718-a91854a8-3541-442e-a0ce-b0ba271861a4.jpg)
+
 
 # Product
 
+![detalles1bmw](https://user-images.githubusercontent.com/94568781/206865742-39d8740a-f78d-4a98-8eb7-b8ebea927920.jpg)
+
 En ésta seccion vas a tener imagenes junto con algunos detalles del producto, luego vas a tener la descipción detallada junto con las caracteristicas. Entre los detalles se encuentran su imagen, su titulo y su precio. Al final tenemos un boton de compra que al hacer click nos redirige a la plataforma de pago, en este caso con stripe donde podemos hacer el pago con tarjeta. Podes probar con el numero de tarjeta: 4242 4242 4242 4242. Cualquier fecha y cualquier codigo de seg.
+
+![pagobmw](https://user-images.githubusercontent.com/94568781/206865857-1afd4122-91f1-4cf6-be14-5ec62653f659.jpg)
 
 
 # Service
@@ -42,6 +48,8 @@ En esta seccion visualizamos los detalles que incluye la garantia de la empresa.
 
 # Contacto
 En esta pagina vas a encontrar un formulario de contacto donde podes completar con tus datos para poder ser contactado.
+
+![contactobmw](https://user-images.githubusercontent.com/94568781/206865781-69151e7c-6128-4873-8cf2-eeda35c1c3c4.jpg)
 
 
 # Cuidado
