@@ -4,9 +4,7 @@
     right: 0.25rem;
    cursor:pointer;
    color: beige;
-   /* tengo que poner el background color con una variable sino no funciona la transition */
   background-color: var(--btn-bkg-danger);
-  /* cuando selecciono el boton cambia el color despues de 250 milisegundos */
   transition: background-color 250ms;
 
 }
