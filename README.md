@@ -26,17 +26,17 @@ La app tiene seis rutas:
 
 En el inicio vas a encontrar distintos modelos (separados por cards) disponibles a la venta. Al hacer click en algun producto vas a poder visualizar la descripción detallada del mismo.
 
-![home1bmw](https://user-images.githubusercontent.com/94568781/206865718-a91854a8-3541-442e-a0ce-b0ba271861a4.jpg)
+![home1bmw](https://lh3.googleusercontent.com/s9rY7A47vnFn8lb4EIO83pe-KjaLu4aP2rHXHRYRA8cn0zaIq1cD1xYByTxPZ8sErPruckGc8zJnV8eh55Ce0cvJsszcz5eAqbVasINP)
 
 
 # Product
 
-![detalles1bmw](https://user-images.githubusercontent.com/94568781/206865742-39d8740a-f78d-4a98-8eb7-b8ebea927920.jpg)
-![detalle3bmw](https://user-images.githubusercontent.com/94568781/206865910-b7f9e13e-c5b6-4635-8c1f-4375d4c38c54.jpg)
+![detalles1bmw](https://lh3.googleusercontent.com/LyOhdTeJTYaFvpolx3Dz3Ohe138L1-ijPRC7heqRkO5LalGsU2SmYaPB8YmDAQrhIqgovB7QaS6UnSTK3ApB2bwLLWiZL9EQsqgYs5A)
+![detalle3bmw](https://lh3.googleusercontent.com/yuFfAFORQGYu4Vh2dmaIlhOM1pscBV8lClBayWtZGp8BsDDTBXiT0RCqMJOcvXHkf2YUU6PBaUHaoPcWJTefNyrn5R8NI3cGljbEJxUs)
 
 En ésta seccion vas a tener imagenes junto con algunos detalles del producto, luego vas a tener la descipción detallada junto con las caracteristicas. Entre los detalles se encuentran su imagen, su titulo y su precio. Al final tenemos un boton de compra que al hacer click nos redirige a la plataforma de pago, en este caso con stripe donde podemos hacer el pago con tarjeta. Podes probar con el numero de tarjeta: 4242 4242 4242 4242. Cualquier fecha y cualquier codigo de seg.
 
-![pagobmw](https://user-images.githubusercontent.com/94568781/206865857-1afd4122-91f1-4cf6-be14-5ec62653f659.jpg)
+![pagobmw](https://lh3.googleusercontent.com/_oKOuM52cNYlNWJb7Sd0l-BVYhq9CY2AoTiyjnZj45FS8a40PoQ_fm59pcOIG5AHAse4GXQsGcPtM8Bmdt435SqOwa61eznHjFEyi4P5)
 
 
 # Service
@@ -50,7 +50,7 @@ En esta seccion visualizamos los detalles que incluye la garantia de la empresa.
 # Contacto
 En esta pagina vas a encontrar un formulario de contacto donde podes completar con tus datos para poder ser contactado.
 
-![contactobmw](https://user-images.githubusercontent.com/94568781/206865781-69151e7c-6128-4873-8cf2-eeda35c1c3c4.jpg)
+![contactobmw](https://lh3.googleusercontent.com/PbTFsIFpsJXImEw_vmeqUE7wKZWV-oSVRdsD-0bw_fLCgR6QkqvJn7keKic1bh8vdmZCubCp0V2z5_Cjz-rhC2f7BU9wEnBRwgpM9HKr)
 
 
 # Cuidado
